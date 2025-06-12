@@ -8,7 +8,7 @@
 - disciplina: **SO** [Sistemas Operacionais](https://github.com/sistemas-operacionais/)
 - professor: [Leonardo A. Minora](https://github.com/leonardo-minora)
 - Aluno: João Pedro Dantas Magalhães
-
+- Observação importante: não consegui intalar o Docker na minha máquina e ne utilizar no IFRN, assim, precisei utilizar o computador do meu irmão, Raúl, que já tinha o Docker instalado e já utilizei Linux. 
 
 
 ## **Introdução ao Docker**
